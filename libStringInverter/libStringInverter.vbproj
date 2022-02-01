@@ -64,6 +64,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAlgorithmicInverter.vb" />
     <Compile Include="CStringinverter.vb" />
     <Compile Include="ITransformations.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
