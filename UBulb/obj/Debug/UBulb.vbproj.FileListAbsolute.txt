@@ -1,0 +1,11 @@
+C:\Users\tamme\source\repos\UBulb\bin\Debug\UBulb.dll
+C:\Users\tamme\source\repos\UBulb\bin\Debug\UBulb.pdb
+C:\Users\tamme\source\repos\UBulb\bin\Debug\UBulb.xml
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.Resources.resources
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.UBulbCtrl.resources
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.vbproj.GenerateResource.cache
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.vbproj.CoreCompileInputs.cache
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.dll
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.xml
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.pdb
+C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.vbproj.AssemblyReference.cache

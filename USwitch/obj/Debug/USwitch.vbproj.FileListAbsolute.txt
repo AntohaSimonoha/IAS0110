@@ -1,0 +1,11 @@
+C:\Users\tamme\source\repos\USwitch\bin\Debug\USwitch.dll
+C:\Users\tamme\source\repos\USwitch\bin\Debug\USwitch.pdb
+C:\Users\tamme\source\repos\USwitch\bin\Debug\USwitch.xml
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.vbproj.AssemblyReference.cache
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.Resources.resources
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.USwitchCtrl.resources
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.vbproj.GenerateResource.cache
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.vbproj.CoreCompileInputs.cache
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.dll
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.xml
+C:\Users\tamme\source\repos\USwitch\obj\Debug\USwitch.pdb
