@@ -28,11 +28,18 @@
     End Sub
 
     Private Sub USwitchCtrl1_Load(sender As Object, e As EventArgs) Handles USwitchCtrl1.Load
-        USwitchCtrl1.setMode("off")
+        USwitchCtrl1.setMode("on")
     End Sub
 
     Private Sub UBulbCtrl1_Load(sender As Object, e As EventArgs) Handles UBulbCtrl1.Load
-        UBulbCtrl1.setMode("off")
+        UBulbCtrl1.setMode("on")
     End Sub
 
+    Private Sub USwitchCtrl1_SwitchOn() Handles USwitchCtrl1.SwitchOn
+        UBulbCtrl1.setMode("on")
+    End Sub
+
+    Private Sub USwitchCtrl1_SwitchOff() Handles USwitchCtrl1.SwitchOff
+        UBulbCtrl1.setMode("off")
+    End Sub
 End Class

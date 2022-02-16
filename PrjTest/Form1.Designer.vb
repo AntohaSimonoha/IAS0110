@@ -24,107 +24,108 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.btnConfused = New System.Windows.Forms.Button()
         Me.btnCool = New System.Windows.Forms.Button()
-        Me.btnSmile = New System.Windows.Forms.Button()
         Me.btnStar = New System.Windows.Forms.Button()
-        Me.btnTeeth = New System.Windows.Forms.Button()
-        Me.btnYell = New System.Windows.Forms.Button()
+        Me.btnSmile = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
-        Me.UCtrlEmotion1 = New PrjFaces.UCtrlEmotion()
+        Me.btnYell = New System.Windows.Forms.Button()
+        Me.btnTeeth = New System.Windows.Forms.Button()
         Me.UBulbCtrl1 = New UBulb.UBulbCtrl()
         Me.USwitchCtrl1 = New USwitch.USwitchCtrl()
+        Me.UCtrlEmotion1 = New PrjFaces.UCtrlEmotion()
         Me.SuspendLayout()
         '
         'btnConfused
         '
-        Me.btnConfused.Location = New System.Drawing.Point(539, 57)
+        Me.btnConfused.Location = New System.Drawing.Point(663, 53)
         Me.btnConfused.Name = "btnConfused"
-        Me.btnConfused.Size = New System.Drawing.Size(110, 42)
-        Me.btnConfused.TabIndex = 1
+        Me.btnConfused.Size = New System.Drawing.Size(108, 36)
+        Me.btnConfused.TabIndex = 3
         Me.btnConfused.Text = "Confused"
         Me.btnConfused.UseVisualStyleBackColor = True
         '
         'btnCool
         '
-        Me.btnCool.Location = New System.Drawing.Point(539, 108)
+        Me.btnCool.Location = New System.Drawing.Point(663, 95)
         Me.btnCool.Name = "btnCool"
-        Me.btnCool.Size = New System.Drawing.Size(110, 42)
-        Me.btnCool.TabIndex = 2
+        Me.btnCool.Size = New System.Drawing.Size(108, 36)
+        Me.btnCool.TabIndex = 4
         Me.btnCool.Text = "Cool"
         Me.btnCool.UseVisualStyleBackColor = True
         '
-        'btnSmile
-        '
-        Me.btnSmile.Location = New System.Drawing.Point(539, 156)
-        Me.btnSmile.Name = "btnSmile"
-        Me.btnSmile.Size = New System.Drawing.Size(110, 42)
-        Me.btnSmile.TabIndex = 3
-        Me.btnSmile.Text = "Smile"
-        Me.btnSmile.UseVisualStyleBackColor = True
-        '
         'btnStar
         '
-        Me.btnStar.Location = New System.Drawing.Point(539, 204)
+        Me.btnStar.Location = New System.Drawing.Point(663, 179)
         Me.btnStar.Name = "btnStar"
-        Me.btnStar.Size = New System.Drawing.Size(110, 42)
-        Me.btnStar.TabIndex = 4
+        Me.btnStar.Size = New System.Drawing.Size(108, 36)
+        Me.btnStar.TabIndex = 6
         Me.btnStar.Text = "Star"
         Me.btnStar.UseVisualStyleBackColor = True
         '
-        'btnTeeth
+        'btnSmile
         '
-        Me.btnTeeth.Location = New System.Drawing.Point(539, 252)
-        Me.btnTeeth.Name = "btnTeeth"
-        Me.btnTeeth.Size = New System.Drawing.Size(110, 42)
-        Me.btnTeeth.TabIndex = 5
-        Me.btnTeeth.Text = "Teeth"
-        Me.btnTeeth.UseVisualStyleBackColor = True
-        '
-        'btnYell
-        '
-        Me.btnYell.Location = New System.Drawing.Point(539, 300)
-        Me.btnYell.Name = "btnYell"
-        Me.btnYell.Size = New System.Drawing.Size(110, 42)
-        Me.btnYell.TabIndex = 6
-        Me.btnYell.Text = "Yell"
-        Me.btnYell.UseVisualStyleBackColor = True
+        Me.btnSmile.Location = New System.Drawing.Point(663, 137)
+        Me.btnSmile.Name = "btnSmile"
+        Me.btnSmile.Size = New System.Drawing.Size(108, 36)
+        Me.btnSmile.TabIndex = 5
+        Me.btnSmile.Text = "Smile"
+        Me.btnSmile.UseVisualStyleBackColor = True
         '
         'btnClear
         '
-        Me.btnClear.Location = New System.Drawing.Point(539, 348)
+        Me.btnClear.Location = New System.Drawing.Point(663, 305)
         Me.btnClear.Name = "btnClear"
-        Me.btnClear.Size = New System.Drawing.Size(110, 42)
-        Me.btnClear.TabIndex = 7
+        Me.btnClear.Size = New System.Drawing.Size(108, 36)
+        Me.btnClear.TabIndex = 9
         Me.btnClear.Text = "Clear"
         Me.btnClear.UseVisualStyleBackColor = True
         '
-        'UCtrlEmotion1
+        'btnYell
         '
-        Me.UCtrlEmotion1.Location = New System.Drawing.Point(12, 12)
-        Me.UCtrlEmotion1.Name = "UCtrlEmotion1"
-        Me.UCtrlEmotion1.Size = New System.Drawing.Size(128, 128)
-        Me.UCtrlEmotion1.TabIndex = 0
+        Me.btnYell.Location = New System.Drawing.Point(663, 263)
+        Me.btnYell.Name = "btnYell"
+        Me.btnYell.Size = New System.Drawing.Size(108, 36)
+        Me.btnYell.TabIndex = 8
+        Me.btnYell.Text = "Yell"
+        Me.btnYell.UseVisualStyleBackColor = True
+        '
+        'btnTeeth
+        '
+        Me.btnTeeth.Location = New System.Drawing.Point(663, 221)
+        Me.btnTeeth.Name = "btnTeeth"
+        Me.btnTeeth.Size = New System.Drawing.Size(108, 36)
+        Me.btnTeeth.TabIndex = 7
+        Me.btnTeeth.Text = "Teeth"
+        Me.btnTeeth.UseVisualStyleBackColor = True
         '
         'UBulbCtrl1
         '
-        Me.UBulbCtrl1.Location = New System.Drawing.Point(170, 12)
+        Me.UBulbCtrl1.Location = New System.Drawing.Point(205, 3)
+        Me.UBulbCtrl1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.UBulbCtrl1.Name = "UBulbCtrl1"
-        Me.UBulbCtrl1.Size = New System.Drawing.Size(287, 320)
-        Me.UBulbCtrl1.TabIndex = 10
+        Me.UBulbCtrl1.Size = New System.Drawing.Size(263, 434)
+        Me.UBulbCtrl1.TabIndex = 2
         '
         'USwitchCtrl1
         '
-        Me.USwitchCtrl1.Location = New System.Drawing.Point(170, 364)
+        Me.USwitchCtrl1.Location = New System.Drawing.Point(12, 335)
+        Me.USwitchCtrl1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.USwitchCtrl1.Name = "USwitchCtrl1"
-        Me.USwitchCtrl1.Size = New System.Drawing.Size(226, 82)
-        Me.USwitchCtrl1.TabIndex = 12
+        Me.USwitchCtrl1.Size = New System.Drawing.Size(187, 102)
+        Me.USwitchCtrl1.TabIndex = 1
+        '
+        'UCtrlEmotion1
+        '
+        Me.UCtrlEmotion1.Location = New System.Drawing.Point(12, 13)
+        Me.UCtrlEmotion1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
+        Me.UCtrlEmotion1.Name = "UCtrlEmotion1"
+        Me.UCtrlEmotion1.Size = New System.Drawing.Size(144, 160)
+        Me.UCtrlEmotion1.TabIndex = 0
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(693, 458)
-        Me.Controls.Add(Me.USwitchCtrl1)
-        Me.Controls.Add(Me.UBulbCtrl1)
+        Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnYell)
         Me.Controls.Add(Me.btnTeeth)
@@ -132,6 +133,8 @@ Partial Class Form1
         Me.Controls.Add(Me.btnSmile)
         Me.Controls.Add(Me.btnCool)
         Me.Controls.Add(Me.btnConfused)
+        Me.Controls.Add(Me.UBulbCtrl1)
+        Me.Controls.Add(Me.USwitchCtrl1)
         Me.Controls.Add(Me.UCtrlEmotion1)
         Me.Name = "Form1"
         Me.Text = "Form1"
@@ -140,13 +143,13 @@ Partial Class Form1
     End Sub
 
     Friend WithEvents UCtrlEmotion1 As PrjFaces.UCtrlEmotion
+    Friend WithEvents USwitchCtrl1 As USwitch.USwitchCtrl
+    Friend WithEvents UBulbCtrl1 As UBulb.UBulbCtrl
     Friend WithEvents btnConfused As Button
     Friend WithEvents btnCool As Button
-    Friend WithEvents btnSmile As Button
     Friend WithEvents btnStar As Button
-    Friend WithEvents btnTeeth As Button
-    Friend WithEvents btnYell As Button
+    Friend WithEvents btnSmile As Button
     Friend WithEvents btnClear As Button
-    Friend WithEvents UBulbCtrl1 As UBulb.UBulbCtrl
-    Friend WithEvents USwitchCtrl1 As USwitch.USwitchCtrl
+    Friend WithEvents btnYell As Button
+    Friend WithEvents btnTeeth As Button
 End Class

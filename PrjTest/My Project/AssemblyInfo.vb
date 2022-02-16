@@ -10,15 +10,15 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("PrjTest")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyCompany("HP Inc.")>
 <Assembly: AssemblyProduct("PrjTest")>
-<Assembly: AssemblyCopyright("Copyright ©  2022")>
+<Assembly: AssemblyCopyright("Copyright © HP Inc. 2022")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("3ddb02d9-bf06-48a5-88e9-2bf76cdff320")>
+<Assembly: Guid("da33dac9-b999-41ac-8db1-bbcf3fbe99df")>
 
 ' Version information for an assembly consists of the following four values:
 '
