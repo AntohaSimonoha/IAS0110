@@ -1,12 +1,11 @@
 ﻿Public Class UBulbCtrl
-    ' Klassisisene meetod kuvatava pildi määramiseks
 
+    ' Klassisisene meetod kuvatava pildi määramiseks
     Private Sub selectMode(ByVal intMode As Integer)
         pbBulb.Image = imgBulb.Images(intMode)
 
     End Sub
     ' Avalik liidesmeetod
-
     Public Sub setMode(ByVal strMode As String)
         Select Case strMode
             Case "off"
@@ -18,3 +17,4 @@
         End Select
     End Sub
 End Class
+

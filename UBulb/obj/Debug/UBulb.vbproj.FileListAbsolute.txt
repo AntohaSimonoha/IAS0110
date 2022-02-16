@@ -9,3 +9,14 @@ C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.dll
 C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.xml
 C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.pdb
 C:\Users\tamme\source\repos\UBulb\obj\Debug\UBulb.vbproj.AssemblyReference.cache
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\bin\Debug\UBulb.dll
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\bin\Debug\UBulb.pdb
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\bin\Debug\UBulb.xml
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.vbproj.AssemblyReference.cache
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.Resources.resources
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.UBulbCtrl.resources
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.vbproj.GenerateResource.cache
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.vbproj.CoreCompileInputs.cache
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.dll
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.xml
+C:\Users\anto\Downloads\IAS0110-master\IAS0110-master\UBulb\obj\Debug\UBulb.pdb
