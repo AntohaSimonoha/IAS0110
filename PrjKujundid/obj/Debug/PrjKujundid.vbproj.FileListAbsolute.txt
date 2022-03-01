@@ -1,0 +1,12 @@
+C:\Users\ilsere\source\repos\PrjKujundid\bin\Debug\PrjKujundid.exe.config
+C:\Users\ilsere\source\repos\PrjKujundid\bin\Debug\PrjKujundid.exe
+C:\Users\ilsere\source\repos\PrjKujundid\bin\Debug\PrjKujundid.pdb
+C:\Users\ilsere\source\repos\PrjKujundid\bin\Debug\PrjKujundid.xml
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.vbprojAssemblyReference.cache
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.formKujundid.resources
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.Resources.resources
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.vbproj.GenerateResource.cache
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.vbproj.CoreCompileInputs.cache
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.exe
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.xml
+C:\Users\ilsere\source\repos\PrjKujundid\obj\Debug\PrjKujundid.pdb
